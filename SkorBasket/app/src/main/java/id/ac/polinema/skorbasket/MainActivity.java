@@ -2,7 +2,10 @@ package id.ac.polinema.skorbasket;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+
+import id.ac.polinema.skorbasket.fragments.HomeFragment;
 
 public class MainActivity extends AppCompatActivity {
 
